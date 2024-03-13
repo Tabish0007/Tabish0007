@@ -32,7 +32,6 @@ Seasoned **Machine Learning Engineer** with over 2+ years of experience in desig
 # 📫 Contact
 
 - 📧 Email: sayyedtabish.1996@gmail.com
-- 📞 Phone: 9594238303
 - 💼 LinkedIn: [https://www.linkedin.com/in/tabish-sayyed-9a033b200/](https://www.linkedin.com/in/tabish-sayyed-9a033b200/)
 
 # 🌟 Explore my Machine Learning Projects and Contributions!
