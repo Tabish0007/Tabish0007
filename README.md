@@ -1,6 +1,5 @@
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ Tabish Sayyed – Machine Learning Engineer & Data Engineer ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+**Tabish Sayyed**
 
 
 ## Professional Profile
