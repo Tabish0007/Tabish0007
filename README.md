@@ -1,5 +1,5 @@
 
-**Tabish Sayyed**
+# Tabish Sayyed
 
 
 ## Professional Profile
