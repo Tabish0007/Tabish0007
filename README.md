@@ -1,37 +1,33 @@
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-                    ┃  📘 Tabish Sayyed - Machine Learning Engineer  ┃
-                    ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┃ Tabish Sayyed – Machine Learning Engineer & Data Engineer ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
-# ⚡ Overview
 
-Seasoned **Machine Learning Engineer** with over 2+ years of experience in designing, developing, and deploying high-impact ML models using cutting-edge frameworks like **TensorFlow**, **PyTorch**, and **Scikit-learn**. Proficient in model optimization, evaluation metrics, and seamless API integration for production environments.
+## Professional Profile
 
-# 🧪 Core Expertise
+I am a versatile Artificial Intelligence engineer specializing in **Machine Learning** and **Data Engineering**, currently contributing as a Data Engineer at BSH Hausgeräte in Munich. Alongside my professional role, I am pursuing a Master’s degree in **Artificial Intelligence and Autonomous Systems** at Technische Hochschule Ingolstadt, enriching my theoretical foundation with cutting-edge research and practical applications.
 
-- 🧠 **Model Development**: CNNs, RNNs, Transformers (BERT, XLNet), Graph Neural Networks
-- ⚙️ **Model Optimization**: Hyperparameter Tuning, Regularization, Pruning
-- 📊 **Evaluation Metrics**: Precision, Recall, F1-Score, IoU
-- 🚀 **API Integration**: Seamless Deployment and Scalability
-- 🔧 **MLOps**: CI/CD, Automated Testing, Model Monitoring, Version Control
-- 📈 **Data Visualization**: Tableau, Power BI, Looker
+## Technical Expertise
 
-# 🏆 Key Achievements
+### Machine Learning & AI
+- Advanced proficiency in deep learning frameworks: **PyTorch**, **TensorFlow**, with hands-on experience in **Transformers** (BERT, GPT, ViT, CLIP), **Graph Neural Networks**, and reinforcement learning
+- Expertise in natural language processing, computer vision, semantic search, and generative models
+- Skilled in end-to-end ML lifecycle including data preprocessing, model development, hyperparameter optimization, deployment, and monitoring
+- Familiarity with state-of-the-art ML tooling: **Hugging Face Transformers**, **MLflow**, **Weights & Biases**, and cloud ML platforms
 
-- 💥 Boosted model accuracy by **5%** using PySpark ETL pipelines
-- 🚀 Improved NLP sequence tagging F1-score by **7%** with BERT, XLNet, BiLSTM
-- 💰 Reduced education platform costs by **10%** with Reinforcement Learning
-- 🎯 Increased image classification accuracy by **4%** with fine-tuned CNNs
-- 🔍 Improved manufacturing quality control by **20%** with PyTorch CV models
-- ⚡ Enhanced supply chain efficiency by **10%** with Graph Neural Networks
+### Data Engineering & Analytics
+- Strong background in building scalable and robust data pipelines utilizing **SAP Datasphere**, **Apache Airflow**, **Amazon Redshift**, and **Adobe Analytics**
+- Experienced in data warehousing, ETL/ELT processes, workflow automation, and real-time data integration
+- Proficient with business intelligence and visualization tools such as **Power BI**
+- Adept at bridging data engineering and ML workflows to enable seamless end-to-end data science solutions
 
-# 🎓 Education
+## Selected Achievements
+- Implemented multiple production-grade ML systems involving transformer-based NLP models and vision architectures, deploying them on cloud infrastructure
+- Developed automated data pipelines supporting large-scale analytics and machine learning workloads in enterprise environments
+- Enhanced model performance and training efficiency via advanced hyperparameter tuning and model optimization techniques
 
-- **Artificial Intelligence and Data Science**, Rizvi College of Engineering (2021 - 2024)
-- **Diploma in Computer Engineering**, Pravin Patil College of Engineering (2018 - 2021)
+## Academic Background
 
-# 📫 Contact
-
-- 📧 Email: sayyedtabish.1996@gmail.com
-- 💼 LinkedIn: [https://www.linkedin.com/in/tabish-sayyed-9a033b200/](https://www.linkedin.com/in/tabish-sayyed-9a033b200/)
-
-# 🌟 Explore my Machine Learning Projects and Contributions!
+- **M.Eng. Artificial Intelligence and Autonomous Systems** (in progress) – Technische Hochschule Ingolstadt  
+- **B.Eng. Artificial Intelligence and Data Science  Engineering** – University Of Mumbai
+- **Diploma. Computer Engineering** -University Of Mumbai 
