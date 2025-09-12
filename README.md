@@ -30,4 +30,7 @@ I am a versatile Artificial Intelligence engineer specializing in **Machine Lear
 
 - **M.Eng. Artificial Intelligence and Autonomous Systems** (in progress) – Technische Hochschule Ingolstadt  
 - **B.Eng. Artificial Intelligence and Data Science  Engineering** – University Of Mumbai
-- **Diploma. Computer Engineering** -University Of Mumbai 
+- **Diploma. Computer Engineering** -University Of Mumbai
+
+
+- Feel Free To Request Access to my projects
