@@ -8,9 +8,9 @@ I am an ML Platform Engineer who specializes in the intersection of data infrast
 
 > **Engineering experience spanning 3 countries and international cross-functional teams**
 
-* 🇩🇪 **Data and Business Intelligence Engineer: BSH Hausgeräte GmbH (Bosch Group)** — Munich, Germany
-* 🇺🇸 **Machine Learning Engineer : Ignitus** — Pennsylvania, USA *(Remote)*
-* 🇮🇳 **Machine Learning Engineer: Grip Mechatronics** — Pune, India
+*  **Data and Business Intelligence Engineer: BSH Hausgeräte GmbH (Bosch Group)** — Munich, Germany
+*  **Machine Learning Engineer : Ignitus** — Pennsylvania, USA *(Remote)*
+*  **Machine Learning Engineer: Grip Mechatronics** — Pune, India
 
 My career has been a deliberate journey toward solving the hardest problem in AI: **the data**.
 
