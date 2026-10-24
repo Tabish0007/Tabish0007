@@ -4,7 +4,7 @@
 
 I am an ML Platform Engineer who specializes in the intersection of data infrastructure and production AI, with deep production experience across the AWS ecosystem. With 3.5+ years of combined experience spanning Data Engineering, Business Intelligence, and Machine Learning Engineering, I build the foundational platforms that allow AI models to scale reliably.
 
-## 🌍 Global Engineering Experience
+##  Global Engineering Experience
 
 > **Engineering experience spanning 3 countries and international cross-functional teams**
 
