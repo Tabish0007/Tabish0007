@@ -33,6 +33,13 @@ Today, I combine these disciplines, creating the bridge between Machine Learning
 * **Overview:** A streamlined Streamlit template repository engineered to accelerate building and deploying custom UI modules directly into the Clarifai ecosystem.
 * **Architecture & Impact:** It eliminates repetitive boilerplate setup with pre-configured multi-page routing, linting, and dependency tracking so you can focus entirely on core logic. Complete with structured navigation and clean architectural patterns, it bridges local Python code with seamless cloud module integration. This is the ultimate plug-and-play foundation for turning complex AI models into sleek, production-ready web applications with zero friction.
 
+
+### 4. Nano Summariser
+* **Repository:** {https://github.com/Tabish0007/Optimized-Text-Transformer}
+* **Overview** An ultra-compact, high-performance NLP pipeline designed to condense massive walls of text into sharp, context-aware summaries in minimal lines of code.
+**Impact**Harnessing Hugging Face’s state-of-the-art transformer architecture, it preserves core semantics and thematic essence with zero information loss.
+Integrated with a slick, plug-and-play Gradio web interface, it turns complex neural summarization into an instant, accessible web application.
+This is pure open-source efficiency—delivering maximum deep learning capability through ultra-lean, elegant Python code.
 ---
 
 ## Technologies & Stack
