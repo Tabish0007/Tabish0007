@@ -4,6 +4,8 @@
 
 I am an ML Platform Engineer who specializes in the intersection of data infrastructure and production AI, with deep production experience across the AWS ecosystem. With 3.5+ years of combined experience spanning Data Engineering, Business Intelligence, and Machine Learning Engineering, I build the foundational platforms that allow AI models to scale reliably.
 
+**My Work**Global engineering experience across 3 countries (Germany, US, India) — architecting production AI platforms at BSH Hausgeräte (Bosch Group)@ Munich,Germany, Ignitus@Pennsylvania,USA, and Grip Mechatronics,@Pune,India.
+
 My career has been a deliberate journey toward solving the hardest problem in AI: **the data**.
 
 * **As a Data & BI Engineer**, I mastered the art of building resilient ETL pipelines, navigating complex data environments, and ensuring data quality.
