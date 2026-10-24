@@ -54,7 +54,7 @@ This is pure open-source efficiency—delivering maximum deep learning capabilit
 
 | Category | Competencies / Tools |
 | --- | --- |
-| **Languages** | Python, C, C++, Java, Go, SQL, Dart, R |
+| **Languages** | Python, C, C++, Java,SQL |
 | **Cloud Stack** | AWS (S3, EC2, ECS Fargate, Glue, Redshift), GCP |
 | **Data & Infrastructure** | dbt, Terraform, Kubernetes |
 | **MLOps & Platform** | ML Lifecycle Automation, Model Deployment, CI/CD for ML, Feature Stores |
