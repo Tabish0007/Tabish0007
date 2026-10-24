@@ -1,37 +1,47 @@
-
 # Tabish Sayyed
 
+**ML Platform Engineer**
 
-## Professional Profile
+I am an ML Platform Engineer who specializes in the intersection of data infrastructure and production AI, with deep production experience across the AWS ecosystem. With 3.5+ years of combined experience spanning Data Engineering, Business Intelligence, and Machine Learning Engineering, I build the foundational platforms that allow AI models to scale reliably.
 
-I am a versatile ML Platform engineer specializing in **Machine Learning** and **Data Engineering**, I  contributed as a Business Intelligence and Data Engineer at BSH Hausgeräte in Munich. Alongside my professional role, I am pursuing a Master’s degree in **Artificial Intelligence and Autonomous Systems** at Technische Hochschule Ingolstadt, enriching my theoretical foundation with cutting-edge research and practical applications.
+My career has been a deliberate journey toward solving the hardest problem in AI: **the data**.
 
-## Technical Expertise
+* **As a Data & BI Engineer**, I mastered the art of building resilient ETL pipelines, navigating complex data environments, and ensuring data quality.
+* **As an ML Engineer**, I learned how to train, fine-tune, and optimize models for real-world applications.
 
-### Machine Learning & AI
-- Advanced proficiency in deep learning frameworks: **PyTorch**, **TensorFlow**, with hands-on experience in **Transformers** (BERT, GPT, ViT, CLIP), **Graph Neural Networks**, and reinforcement learning
-- Expertise in natural language processing, computer vision, semantic search, and generative models
-- Skilled in end-to-end ML lifecycle including data preprocessing, model development, hyperparameter optimization, deployment, and monitoring
-- Familiarity with state-of-the-art ML tooling: **Hugging Face Transformers**, **MLflow**, **Weights & Biases**, and cloud ML platforms
+Today, I combine these disciplines, creating the bridge between Machine Learning, Data Engineering, and Platform Engineering. I design and automate the end-to-end machine learning lifecycle (MLOps), primarily utilizing AWS computing and data tools. From orchestrating serverless containerized workflows to managing high-performance data pipelines, I focus on turning experimental code into robust, enterprise-grade AI infrastructure. As an IBM Certified Hybrid Cloud Architect, I also bring expertise in designing resilient multi-cloud strategies, automated rollback mechanisms, and centralized orchestration to ensure enterprise-grade reliability.
 
-### Data Engineering & Analytics
-- Strong background in building scalable and robust data pipelines utilizing **SAP Datasphere**, **Apache Airflow**, **Amazon Redshift**, and **Adobe Analytics**
-- Experienced in data warehousing, ETL/ELT processes, workflow automation, and real-time data integration
-- Proficient with business intelligence and visualization tools such as **Power BI**
-- Developed a Data Quality Shield for the entire ETL/ELT ecosystem stitching together multiple data sources like Redshift,SAP datasphere,Airflow etc.
-- Adept at bridging data engineering and ML workflows to enable seamless end-to-end data science solutions
+---
 
-## Selected Achievements
-- Implemented multiple production-grade ML systems involving transformer-based NLP models and vision architectures, deploying them on cloud infrastructure
-- Developed automated data pipelines supporting large-scale analytics and machine learning workloads in enterprise environments
-- Enhanced model performance and training efficiency via advanced hyperparameter tuning and model optimization techniques
-- Lean Six Sigma Black Belt (ICBB)
+## Featured Projects
 
-## Academic Background
+### 1. Agentic Data Analyst
 
-- **M.Eng. Artificial Intelligence and Autonomous Systems** (in progress) – Technische Hochschule Ingolstadt  
-- **B.Eng. Artificial Intelligence and Data Science  Engineering** – University Of Mumbai
-- **Diploma. Computer Engineering** -University Of Mumbai
+* **Repository:** [github.com/Tabish0007/agentic-data-analyst](https://github.com/Tabish0007/agentic-data-analyst)
+* **Overview:** An open-weights AI agent that answers business questions over raw CSVs using a local 7B model—with a strict rule that if a number wasn't printed, it doesn't exist.
+* **Architecture & Impact:** Built entirely from scratch without bloated frameworks, it routes queries, executes Python in a local sandbox, and enforces a deterministic grounding gate to eliminate hallucinations. Unlike typical AI demos that change answers every run, its eval harness isolates memory and pins sampling to deliver 100% reproducible, multi-decimal precision on your laptop for free. This is superior system architecture over brute-force model size—proving that rigorous verifier engineering beats trusting an ungrounded LLM every single time.
 
+### 2. Robust ML
 
-- Feel Free To Request Access to my projects
+* **Repository:** [github.com/Tabish0007/RobustML](https://github.com/Tabish0007/RobustML)
+* **Overview:** An end-to-end framework built to benchmark, attack, and fortify machine learning models against adversarial threats and image manipulation.
+* **Architecture & Impact:** Features dedicated modules for implementing adversarial attack vectors, engineering defense strategies, and running comprehensive model robustness benchmarks. Equipped with adversarial training scripts and an interactive Streamlit app, it brings security testing from theoretical code straight into real-time visual analysis. This is cutting-edge AI security at its finest—proving how to build resilient, production-ready models that refuse to crumble under adversarial pressure.
+
+### 3. Clarif Launchpad
+
+* **Repository:** [github.com/Tabish0007/Dbc-templates](https://github.com/Tabish0007/Dbc-templates)
+* **Overview:** A streamlined Streamlit template repository engineered to accelerate building and deploying custom UI modules directly into the Clarifai ecosystem.
+* **Architecture & Impact:** It eliminates repetitive boilerplate setup with pre-configured multi-page routing, linting, and dependency tracking so you can focus entirely on core logic. Complete with structured navigation and clean architectural patterns, it bridges local Python code with seamless cloud module integration. This is the ultimate plug-and-play foundation for turning complex AI models into sleek, production-ready web applications with zero friction.
+
+---
+
+## Technologies & Stack
+
+| Category | Competencies / Tools |
+| --- | --- |
+| **Languages** | Python, C, C++, Java, Go, SQL, Dart, R |
+| **Cloud Stack** | AWS (S3, EC2, ECS Fargate, Glue, Redshift), GCP |
+| **Data & Infrastructure** | dbt, Terraform, Kubernetes |
+| **MLOps & Platform** | ML Lifecycle Automation, Model Deployment, CI/CD for ML, Feature Stores |
+| **Data Engineering** | ETL/ELT Pipelines, Distributed Systems, Data Warehousing, Data Governance |
+| **ML & Analytics** | Machine Learning Pipelines, Model Optimization, Statistical Analysis, BI & Dashboarding |
