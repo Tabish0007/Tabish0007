@@ -24,10 +24,6 @@ Today, I combine these disciplines, creating the bridge between Machine Learning
 ---
 ### Private & Professional Work
 
-Not every production build lives on GitHub. During my time as a Data and Business Intelligence Engineer @BSH Hausgeräte contributing to enterprise repos (under the `say3mu` alias), I built and shipped ETL pipelines, data infrastructure, and BI tooling that serve live business processes. The code is proprietary to my employer.
-
-### Private & Professional Work
-
 Not every production build lives on GitHub. During my time as a Data and Business Intelligence Engineer at BSH contributing to enterprise repos (under the `say3mu` alias), I built and shipped the core infrastructure for the team. The code is proprietary to my employer, but the impact is measurable:
 
 - **Orchestrated production data pipelines** on AWS (S3, Glue, Redshift) using Apache Airflow and PySpark.
