@@ -4,6 +4,11 @@
 
 I am an ML Platform Engineer who specializes in the intersection of data infrastructure and production AI, with deep production experience across the AWS ecosystem. With 3.5+ years of combined experience spanning Data Engineering, Business Intelligence, and Machine Learning Engineering, I build the foundational platforms that allow AI models to scale reliably.
 
+### What I'm building now
+
+Shipped an ML-Ready Lakehouse (Delta Lake + Spark + Airflow) sold to a client — a production platform that quarantines bad data before it reaches fine-tuning pipelines.
+→ [Showcase repo](https://github.com/Tabish0007/ml-lakehouse-showcase)
+
 ##  Global Engineering Experience
 
 > **Engineering experience spanning 3 countries and international cross-functional teams**
