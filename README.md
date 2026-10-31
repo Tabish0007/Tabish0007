@@ -48,17 +48,10 @@ If you want to see equivalent architecture in the open, my [ML-Ready Lakehouse s
 
 **Architecture & Impact:** Features dedicated modules for attack vectors, defense strategies, and robustness benchmarks. Equipped with adversarial training scripts and an interactive Streamlit app, it brings security testing from theoretical code into real-time visual analysis. Proves how to build resilient models that refuse to crumble under adversarial pressure.
 
-### 3. Clarif Launchpad: github.com/Tabish0007/Dbc-templates
+### 3. evolve-generalize : https://github.com/Tabish0007/evolve-generalize
 
-**Hook:** A streamlined Streamlit template engine to accelerate deploying custom UI modules into the Clarifai ecosystem.
+**Hook:**  A stress-test harness to measure cross-benchmark overfitting in LLM agent evolution frameworks. Built with Python, Streamlit, and local Ollama.
 
-**Architecture & Impact:** Eliminates repetitive boilerplate with pre-configured multi-page routing, linting, and dependency tracking. Bridges local Python code with seamless cloud module integration. The plug-and-play foundation for turning complex AI models into production-ready web applications with zero friction.
-
-### 4. Nano Summariser:https://github.com/Tabish0007/Optimized-Text-Transformer}
-
-**Hook:** An ultra-compact NLP pipeline that condenses massive walls of text into sharp, context-aware summaries.
-
-**Architecture & Impact:** Harnesses Hugging Face’s state-of-the-art transformer architecture with zero information loss. Integrated with a Gradio web interface, turning complex neural summarization into an instant, accessible web application. Pure open-source efficiency — maximum deep learning capability through ultra-lean code.
 
 ## Technologies & Stack
 
