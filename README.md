@@ -1,65 +1,72 @@
 # Tabish Sayyed
 
-**ML Platform Engineer**
+**ML Platform Engineer · MLOps · Data Infrastructure · AWS & Kubernetes**
 
-I am an ML Platform Engineer who specializes in the intersection of data infrastructure and production AI, with deep production experience across the AWS ecosystem. With 3.5+ years of combined experience spanning Data Engineering, Business Intelligence, and Machine Learning Engineering, I build the foundational platforms that allow AI models to scale reliably.
+I build production AI infrastructure — from reliable data pipelines and ML-ready lakehouses to model deployment and evaluation systems. With 3.5+ years of experience across Data Engineering, Business Intelligence, and Machine Learning Engineering, I focus on making data and AI systems reliable, scalable, and production-ready.
 
-### What I'm building now
+## Featured Work
 
-Shipped an ML-Ready Lakehouse (Delta Lake + Spark + Airflow) sold to a client — a production platform that quarantines bad data before it reaches fine-tuning pipelines.
-→ [Showcase repo](https://github.com/Tabish0007/ml-lakehouse-showcase)
+### ML-Ready Lakehouse — production data infrastructure
 
-##  Global Engineering Experience
+A medallion architecture built with Delta Lake, Spark, Airflow, and AWS S3. Implements schema validation, automated data quality checks, and quarantine workflows to keep unreliable data out of downstream ML pipelines. Includes automated Parquet exports for model training workflows.
 
-> **Engineering experience spanning 3 countries and international cross-functional teams**
- **Global Experience:** Data and Business Intelligence Engineer @*(BSH Hausgeräte)* · Machine Learning Engineer *(USA/Ignitus)* · Machine Learning Engineer*(Grip Mechatronics/India)*
+Built and delivered to a client; MVP sold for **$13,000** in January 2026.
 
-My career has been a deliberate journey toward solving the hardest problem in AI: **the data**.
+`Python` · `Apache Spark` · `Delta Lake` · `Airflow` · `AWS S3` · `Jinja`
 
-* **As a Data & BI Engineer**, I mastered the art of building resilient ETL pipelines, navigating complex data environments, and ensuring data quality.
-* **As an ML Engineer**, I learned how to train, fine-tune, and optimize models for real-world applications.
+[Showcase repository](https://github.com/Tabish0007/ml-lakehouse-showcase)
 
-Today, I combine these disciplines, creating the bridge between Machine Learning, Data Engineering, and Platform Engineering. I design and automate the end-to-end machine learning lifecycle (MLOps), primarily utilizing AWS computing and data tools. From orchestrating serverless containerized workflows to managing high-performance data pipelines, I focus on turning experimental code into robust, enterprise-grade AI infrastructure. As an IBM Certified Hybrid Cloud Architect, I also bring expertise in designing resilient multi-cloud strategies, automated rollback mechanisms, and centralized orchestration to ensure enterprise-grade reliability.
+### Agentic Data Analyst — grounded LLM data analysis
+
+A local LLM agent that answers business questions over CSV datasets using sandboxed Python execution and a deterministic grounding gate. Numerical claims must be supported by actual execution output. Includes a reproducible evaluation harness with controlled sampling and leakage prevention.
+
+`Python` · `Pandas` · `Ollama` · `Local LLMs` · `Streamlit`
+
+[GitHub repository](https://github.com/Tabish0007/agentic-data-analyst)
+
+### Evolve Generalize — agent evaluation infrastructure
+
+An evaluation harness for measuring cross-benchmark generalization in agent evolution frameworks. Compares baseline performance, transfer performance, and target-task upper bounds, with local Ollama inference and an interactive Streamlit dashboard.
+
+`Python` · `Streamlit` · `Ollama` · `LLM Evaluation`
+
+[GitHub repository](https://github.com/Tabish0007/evolve-generalize)
+
+### RobustML — adversarial machine learning
+
+An end-to-end framework for benchmarking model robustness against adversarial attacks, exploring defense strategies, and evaluating model behavior through an interactive Streamlit interface.
+
+`Python` · `Machine Learning` · `Adversarial Testing` · `Streamlit`
+
+[GitHub repository](https://github.com/Tabish0007/RobustML)
+
+## Production Engineering
+
+**BSH Hausgeräte (Bosch Group) · Data & Business Intelligence Engineering**
+
+Built and optimized enterprise data infrastructure across AWS, Apache Airflow, PySpark, and Redshift.
+
+- Developed a Python-based Data Quality Notification System monitoring 40+ Airflow DAGs and 30+ SAP Datasphere task chains.
+- Reduced pipeline retry rates by 66% and achieved 91–94% anomaly-detection accuracy.
+- Optimized data workflows, reducing monthly cloud computing costs from €3,000 to €1,270.
+
+Additional engineering experience across machine learning deployment, computer vision, and cloud-based ML pipelines at Ignitus (USA) and Grip Mechatronics (India).
+
+## What I Work With
+
+| Area | Technologies |
+|---|---|
+| Languages | Python · SQL · Java · C++ · C · Jinja |
+| Data Engineering | Apache Spark · PySpark · Airflow · Kafka · dbt · Delta Lake |
+| Cloud & Infrastructure | AWS · GCP · Kubernetes · Docker · Terraform · Linux |
+| ML & MLOps | PyTorch · TensorFlow · MLflow · FastAPI · Model Deployment |
+| AI Systems | LLM Evaluation · RAG · Agentic Workflows · Ollama · Computer Vision |
+
+**Certification:** IBM Certified Hybrid Cloud Architect
 
 ---
-### Private & Professional Work
 
-Not every production build lives on GitHub. During my time as a Data and Business Intelligence Engineer at BSH contributing to enterprise repos (under the `say3mu` alias), I built and shipped the core infrastructure for the team. The code is proprietary to my employer, but the impact is measurable:
-
-- **Orchestrated production data pipelines** on AWS (S3, Glue, Redshift) using Apache Airflow and PySpark.
-- **Reduced Apache Airflow DAG retry rate by 66%** by implementing robust data quality frameworks and SLA monitoring.
-- **Cut cloud computing costs from €3,000 to €1,270 per month** through pipeline architecture optimization.
-- **Designed a Data Quality System** for Apache Airflow and Adobe Redshift pipelines, ensuring data accuracy across the board.
-
-*(The same trust-layer and quarantine architecture I designed there is what I used to build the [ML-Ready Lakehouse showcase](https://github.com/Tabish0007/ml-lakehouse-showcase) here on GitHub.)*
-If you want to see equivalent architecture in the open, my [ML-Ready Lakehouse showcase](https://github.com/Tabish0007/ml-lakehouse-showcase) demonstrates the same patterns (Delta Lake, Airflow, Spark) in a public, reproducible build.
-
-## Featured Projects
-
-### 1. Agentic Data Analyst :https://github.com/Tabish0007/agentic-data-analyst
-
-**Hook:** A local 7B agent that answers data questions with a deterministic grounding gate — if a number wasn't printed, it doesn't exist.
-
-**Architecture & Impact:** Built from scratch without bloated frameworks. Routes queries, executes Python in a local sandbox, and enforces a strict verifier gate to eliminate hallucinations. Unlike typical AI demos, its eval harness isolates memory and pins sampling to deliver 100% reproducible, multi-decimal precision. This proves rigorous verifier engineering beats brute-force model size.
-
-### 2. Robust ML:https://github.com/Tabish0007/RobustML
-
-**Hook:** An end-to-end framework to benchmark, attack, and fortify models against adversarial threats.
-
-**Architecture & Impact:** Features dedicated modules for attack vectors, defense strategies, and robustness benchmarks. Equipped with adversarial training scripts and an interactive Streamlit app, it brings security testing from theoretical code into real-time visual analysis. Proves how to build resilient models that refuse to crumble under adversarial pressure.
-
-### 3. Evolve-generalize : https://github.com/Tabish0007/evolve-generalize
-
-**Hook:**  A stress-test harness to measure cross-benchmark overfitting in LLM agent evolution frameworks. Built with Python, Streamlit, and local Ollama.
-
-
-## Technologies & Stack
-
-| Category | Competencies / Tools |
-| --- | --- |
-| **Languages** | Python, C, C++, Java,SQL,Jinja|
-| **Cloud Stack** | AWS (S3, EC2, ECS Fargate, Glue, Redshift), GCP |
-| **Data & Infrastructure** | dbt, Terraform, Kubernetes |
-| **MLOps & Platform** | ML Lifecycle Automation, Model Deployment, CI/CD for ML, Feature Stores |
-| **Data Engineering** | ETL/ELT Pipelines, Distributed Systems, Data Warehousing, Data Governance |
-| **ML & Analytics** | Machine Learning Pipelines, Model Optimization, Statistical Analysis, BI & Dashboarding |
+**Portfolio:** https://tabishsayyed.shipstatic.com/  
+**LinkedIn:** https://www.linkedin.com/in/tabish-9a033b200/  
+**Hugging Face:** https://huggingface.co/SayyedTabish  
+**Email:** tabishsayyed.302@gmail.com
