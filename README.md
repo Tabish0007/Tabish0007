@@ -48,7 +48,7 @@ If you want to see equivalent architecture in the open, my [ML-Ready Lakehouse s
 
 **Architecture & Impact:** Features dedicated modules for attack vectors, defense strategies, and robustness benchmarks. Equipped with adversarial training scripts and an interactive Streamlit app, it brings security testing from theoretical code into real-time visual analysis. Proves how to build resilient models that refuse to crumble under adversarial pressure.
 
-### 3. evolve-generalize : https://github.com/Tabish0007/evolve-generalize
+### 3. Evolve-generalize : https://github.com/Tabish0007/evolve-generalize
 
 **Hook:**  A stress-test harness to measure cross-benchmark overfitting in LLM agent evolution frameworks. Built with Python, Streamlit, and local Ollama.
 
