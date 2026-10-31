@@ -1,14 +1,14 @@
 # Tabish Sayyed
 
-**ML Platform Engineer · MLOps · Data Infrastructure · AWS & Kubernetes**
+**ML Platform Engineer · MLOps · ML Infrastructure · Data Platforms**
 
-I build production AI infrastructure — from reliable data pipelines and ML-ready lakehouses to model deployment and evaluation systems. With 3.5+ years of experience across Data Engineering, Business Intelligence, and Machine Learning Engineering, I focus on making data and AI systems reliable, scalable, and production-ready.
+I build production AI infrastructure — from ML deployment architectures and automated infrastructure to reliable data pipelines and evaluation systems. With 3.5+ years of combined experience across Machine Learning Engineering, Data Engineering, and Business Intelligence, I focus on turning experimental ML workflows into reliable, scalable production systems.
 
 ## Featured Work
 
 ### ML-Ready Lakehouse — production data infrastructure
 
-A medallion architecture built with Delta Lake, Spark, Airflow, and AWS S3. Implements schema validation, automated data quality checks, and quarantine workflows to keep unreliable data out of downstream ML pipelines. Includes automated Parquet exports for model training workflows.
+A production-oriented medallion architecture built with Delta Lake, Spark, Airflow, and AWS S3. Implements schema validation, automated data quality checks, and quarantine workflows to prevent unreliable data from reaching downstream ML pipelines. Includes automated Parquet exports for model training workflows.
 
 Built and delivered to a client; MVP sold for **$13,000** in January 2026.
 
@@ -18,7 +18,7 @@ Built and delivered to a client; MVP sold for **$13,000** in January 2026.
 
 ### Agentic Data Analyst — grounded LLM data analysis
 
-A local LLM agent that answers business questions over CSV datasets using sandboxed Python execution and a deterministic grounding gate. Numerical claims must be supported by actual execution output. Includes a reproducible evaluation harness with controlled sampling and leakage prevention.
+A local LLM agent that answers business questions over CSV datasets using sandboxed Python execution and a deterministic grounding gate. Numerical claims must be supported by actual execution output. Includes a reproducible evaluation harness with controlled sampling and evaluation-leakage prevention.
 
 `Python` · `Pandas` · `Ollama` · `Local LLMs` · `Streamlit`
 
@@ -26,7 +26,7 @@ A local LLM agent that answers business questions over CSV datasets using sandbo
 
 ### Evolve Generalize — agent evaluation infrastructure
 
-An evaluation harness for measuring cross-benchmark generalization in agent evolution frameworks. Compares baseline performance, transfer performance, and target-task upper bounds, with local Ollama inference and an interactive Streamlit dashboard.
+An evaluation harness for measuring cross-benchmark generalization in agent evolution frameworks. Compares baseline performance, cross-benchmark transfer, and target-task upper bounds, with local Ollama inference and an interactive Streamlit dashboard.
 
 `Python` · `Streamlit` · `Ollama` · `LLM Evaluation`
 
@@ -34,7 +34,7 @@ An evaluation harness for measuring cross-benchmark generalization in agent evol
 
 ### RobustML — adversarial machine learning
 
-An end-to-end framework for benchmarking model robustness against adversarial attacks, exploring defense strategies, and evaluating model behavior through an interactive Streamlit interface.
+An end-to-end framework for benchmarking model robustness against adversarial attacks, evaluating defense strategies, and analyzing model behavior through an interactive Streamlit interface.
 
 `Python` · `Machine Learning` · `Adversarial Testing` · `Streamlit`
 
@@ -48,9 +48,22 @@ Built and optimized enterprise data infrastructure across AWS, Apache Airflow, P
 
 - Developed a Python-based Data Quality Notification System monitoring 40+ Airflow DAGs and 30+ SAP Datasphere task chains.
 - Reduced pipeline retry rates by 66% and achieved 91–94% anomaly-detection accuracy.
-- Optimized data workflows, reducing monthly cloud computing costs from €3,000 to €1,270.
+- Optimized ETL/ELT workflows, reducing monthly cloud computing costs from €3,000 to €1,270.
 
-Additional engineering experience across machine learning deployment, computer vision, and cloud-based ML pipelines at Ignitus (USA) and Grip Mechatronics (India).
+**Ignitus · Machine Learning Engineering**
+
+Designed ML deployment architecture and automated infrastructure workflows for production model services.
+
+- Designed and deployed nine FastAPI model services on Kubernetes, with MLflow experiment tracking and model registry.
+- Implemented CI/CD and infrastructure automation, alongside drift and latency monitoring for deployed models.
+- Automated GCP training pipelines for NLP recommendation models, reducing retraining time from five days to 14 hours.
+
+**Grip Mechatronics · Machine Learning Engineering**
+
+Developed computer-vision inspection systems and deployed ML inference across production edge infrastructure.
+
+- Built C++/Python inspection algorithms for defect segmentation and sub-pixel alignment, achieving 96.4% precision at 45 FPS.
+- Deployed 11 inference services on K3s across four edge nodes, with MLflow versioning and under 120 ms round-trip latency.
 
 ## What I Work With
 
@@ -58,11 +71,11 @@ Additional engineering experience across machine learning deployment, computer v
 |---|---|
 | Languages | Python · SQL · Java · C++ · C · Jinja |
 | Data Engineering | Apache Spark · PySpark · Airflow · Kafka · dbt · Delta Lake |
-| Cloud & Infrastructure | AWS · GCP · Kubernetes · Docker · Terraform · Linux |
-| ML & MLOps | PyTorch · TensorFlow · MLflow · FastAPI · Model Deployment |
+| Cloud & Infrastructure | AWS · GCP · Kubernetes · K3s · Docker · Terraform · Linux |
+| ML & MLOps | PyTorch · TensorFlow · MLflow · FastAPI · Model Deployment · Model Monitoring |
 | AI Systems | LLM Evaluation · RAG · Agentic Workflows · Ollama · Computer Vision |
 
-**Certification:** IBM Certified Hybrid Cloud Architect, Lean Six Sigma Black Belt 
+**Certifications:** IBM Certified Hybrid Cloud Architect · Lean Six Sigma Black Belt · HackerRank Certified Software Engineer
 
 ---
 
