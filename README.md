@@ -62,7 +62,7 @@ Additional engineering experience across machine learning deployment, computer v
 | ML & MLOps | PyTorch · TensorFlow · MLflow · FastAPI · Model Deployment |
 | AI Systems | LLM Evaluation · RAG · Agentic Workflows · Ollama · Computer Vision |
 
-**Certification:** IBM Certified Hybrid Cloud Architect
+**Certification:** IBM Certified Hybrid Cloud Architect, Lean Six Sigma Black Belt 
 
 ---
 
