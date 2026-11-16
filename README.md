@@ -69,7 +69,7 @@ Developed computer-vision inspection systems and deployed ML inference across pr
 
 | Area | Technologies |
 |---|---|
-| Languages | Python · SQL · Java · C++ · C · Jinja |
+| Languages | Python · SQL · Java · C++ · C · Jinja ·Rust  |
 | Data Engineering | Apache Spark · PySpark · Airflow · Kafka · dbt · Delta Lake |
 | Cloud & Infrastructure | AWS · GCP · Kubernetes · K3s · Docker · Terraform · Linux |
 | ML & MLOps | PyTorch · TensorFlow · MLflow · FastAPI · Model Deployment · Model Monitoring |
