@@ -24,7 +24,7 @@ Reads a table's _delta_log, checks protocol invariants (writer features, reader/
 
 diagnose, fix --dry-run, and recursive scan commands; CI-friendly exit codes to fail builds on unhealthy tables.
 
-[Showcase Repository](https://github.com/Tabish0007/delta-doctor)
+[Github Repository](https://github.com/Tabish0007/delta-doctor)
 Python · Delta Lake · CLI · Data Engineering
 
 ### Agentic Data Analyst — grounded LLM data analysis
