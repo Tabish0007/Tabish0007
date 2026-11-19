@@ -16,6 +16,17 @@ Built and delivered to a client; MVP sold for **$13,000** in January 2026.
 
 [Showcase repository](https://github.com/Tabish0007/ml-lakehouse-showcase)
 
+ Delta-Doctor - CLI that diagnoses and fixes Delta Lake protocol health issues 
+ 
+ A CLI tool that diagnoses and fixes Delta Lake protocol-level health issues before they cause cryptic errors or silent data corruption.
+
+Reads a table's _delta_log, checks protocol invariants (writer features, reader/writer version compatibility, checkpoint integrity, orphaned commits), and reports exactly what's wrong — with actionable fixes instead of a 47-line Java stack trace.
+
+diagnose, fix --dry-run, and recursive scan commands; CI-friendly exit codes to fail builds on unhealthy tables.
+
+[Showcase Repository](https://github.com/Tabish0007/delta-doctor)
+Python · Delta Lake · CLI · Data Engineering
+
 ### Agentic Data Analyst — grounded LLM data analysis
 
 A local LLM agent that answers business questions over CSV datasets using sandboxed Python execution and a deterministic grounding gate. Numerical claims must be supported by actual execution output. Includes a reproducible evaluation harness with controlled sampling and evaluation-leakage prevention.
