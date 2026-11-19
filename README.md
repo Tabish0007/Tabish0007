@@ -44,11 +44,11 @@ An end-to-end framework for benchmarking model robustness against adversarial at
 
 **BSH Hausgeräte (Bosch Group) · Data & Business Intelligence Engineering**
 
-Built and optimized enterprise data infrastructure across AWS, Apache Airflow, PySpark, and Redshift.
-
-- Developed a Python-based Data Quality Notification System monitoring 40+ Airflow DAGs and 30+ SAP Datasphere task chains.
-- Reduced pipeline retry rates by 66% and achieved 91–94% anomaly-detection accuracy.
-- Optimized ETL/ELT workflows, reducing monthly cloud computing costs from €3,000 to €1,270.
+Cloud Infrastructure & FinOps Optimization: Led the technical migration of Apache Airflow DAG executions from EC2 to AWS ECS Fargate, scaling down worker nodes and decommissioning idle resources to sustainably reduce monthly cloud operating costs by ~58% (from €3,000 to €1,270).
+• End-to-End Platform Engineering (DQNS): Independently architected, developed, and deployed a modular Data Quality Notification System (DQNS) using Python, SQL, Apache Airflow, AWS Redshift, and SAP Datasphere to automate pipeline monitoring and proactive incident management.
+• Production Pipeline Observability: Integrated automated Level-1 and Level-2 infrastructure and data quality validations across 40+ production Apache Airflow DAGs and 30+ SAP Datasphere task chains, ensuring high data reliability across enterprise analytics workflows.
+• Cross-Functional Architecture & Documentation: Collaborated across platform engineering teams (AWS, SAP Datasphere) and data owners to drive requirements engineering, manage Jira backlogs (Epics, User Stories), and author comprehensive technical documentation across Confluence.
+• Enterprise Analytics Delivery: Engineered, tested, and maintained production data solutions supporting high-volume Direct-to-Consumer (D2C) and Order-turnover-analysis OTA) analytics use cases..
 
 **Ignitus · Machine Learning Engineering**
 
