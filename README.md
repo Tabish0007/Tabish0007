@@ -16,16 +16,17 @@ Built and delivered to a client; MVP sold for **$13,000** in January 2026.
 
 [Showcase repository](https://github.com/Tabish0007/ml-lakehouse-showcase)
 
- Delta-Doctor - CLI that diagnoses and fixes Delta Lake protocol health issues 
- 
- A CLI tool that diagnoses and fixes Delta Lake protocol-level health issues before they cause cryptic errors or silent data corruption.
 
-Reads a table's _delta_log, checks protocol invariants (writer features, reader/writer version compatibility, checkpoint integrity, orphaned commits), and reports exactly what's wrong — with actionable fixes instead of a 47-line Java stack trace.
+### Delta-Doctor — Delta Lake protocol diagnostics CLI
 
-diagnose, fix --dry-run, and recursive scan commands; CI-friendly exit codes to fail builds on unhealthy tables.
+A CLI tool that diagnoses and fixes Delta Lake protocol-level health issues before they cause cryptic errors or silent data corruption. Reads a table's `_delta_log`, checks protocol invariants — writer features, reader/writer version compatibility, checkpoint integrity, and orphaned commits — and reports exactly what's wrong, with actionable fixes instead of a 47-line Java stack trace. Includes `diagnose`, `fix --dry-run`, and recursive `scan` commands with CI-friendly exit codes to fail builds on unhealthy tables.
 
-[Github Repository](https://github.com/Tabish0007/delta-doctor)
-Python · Delta Lake · CLI · Data Engineering
+Installable via `pip install delta-doctor`; works with local filesystem, S3, GCS, and Azure Blob Storage.
+
+`Python` · `Delta Lake` · `CLI` · `Data Engineering`
+
+[GitHub repository](https://github.com/Tabish0007/delta-doctor)
+
 
 ### Agentic Data Analyst — grounded LLM data analysis
 
@@ -35,6 +36,7 @@ A local LLM agent that answers business questions over CSV datasets using sandbo
 
 [GitHub repository](https://github.com/Tabish0007/agentic-data-analyst)
 
+
 ### Evolve Generalize — agent evaluation infrastructure
 
 An evaluation harness for measuring cross-benchmark generalization in agent evolution frameworks. Compares baseline performance, cross-benchmark transfer, and target-task upper bounds, with local Ollama inference and an interactive Streamlit dashboard.
@@ -42,6 +44,7 @@ An evaluation harness for measuring cross-benchmark generalization in agent evol
 `Python` · `Streamlit` · `Ollama` · `LLM Evaluation`
 
 [GitHub repository](https://github.com/Tabish0007/evolve-generalize)
+
 
 ### RobustML — adversarial machine learning
 
