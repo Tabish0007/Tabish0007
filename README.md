@@ -1,12 +1,6 @@
 # Tabish Sayyed
 
-** Platform Engineer · MLOps · ML Infrastructure · Data Platforms**
-
-Tabish Sayyed : Platform engineer for data & ML workloads. I make GPU and data infrastructure cheap, observable, and self-service.
-
-Currently: building an open-source GPU inference platform with per-team chargeback 
-
-Shipped: a medallion lakehouse MVP sold to a paying client for €13,000 · a 58% cloud cost reduction (€3,000 → €1,270/mo) migrating 40+ Airflow workloads from EC2 to ECS Fargate · delta-doctor, a CLI that diagnoses Delta Lake protocol corruption before it becomes data loss · OSS contributions to delta-rs
+Platform Engineer building internal developer platforms and fixing core engines. Rust, Python, Kubernetes, AWS — focused on distributed systems, cloud cost, and deep-level debugging. I merge code into the Delta Lake kernel and build GPU chargeback systems.P
 ## Featured Work
 
 ### ML-Ready Lakehouse — production data infrastructure
