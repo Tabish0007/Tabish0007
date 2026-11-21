@@ -1,6 +1,6 @@
 # Tabish Sayyed
 
-Platform Engineer building internal developer platforms and fixing core engines. Rust, Python, Kubernetes, AWS — focused on distributed systems, cloud cost, and deep-level debugging. I merge code into the Delta Lake kernel and build GPU chargeback systems.P
+Platform Engineer building internal developer platforms and fixing core engines. Rust, Python, Kubernetes, AWS  focused on distributed systems, cloud cost, and deep-level debugging. I merge code into the Delta Lake kernel and build GPU chargeback systems.
 ## Featured Work
 
 ### ML-Ready Lakehouse — production data infrastructure
