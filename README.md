@@ -2,8 +2,11 @@
 
 **ML Platform Engineer · MLOps · ML Infrastructure · Data Platforms**
 
-I build production AI infrastructure — from ML deployment architectures and automated infrastructure to reliable data pipelines and evaluation systems. With 3.5+ years of combined experience across Machine Learning Engineering, Data Engineering, and Business Intelligence, I focus on turning experimental ML workflows into reliable, scalable production systems.
+Tabish Sayyed : Platform engineer for data & ML workloads. I make GPU and data infrastructure cheap, observable, and self-service.
 
+Currently: building an open-source GPU inference platform with per-team chargeback 
+
+Shipped: a medallion lakehouse MVP sold to a paying client for €13,000 · a 58% cloud cost reduction (€3,000 → €1,270/mo) migrating 40+ Airflow workloads from EC2 to ECS Fargate · delta-doctor, a CLI that diagnoses Delta Lake protocol corruption before it becomes data loss · OSS contributions to delta-rs
 ## Featured Work
 
 ### ML-Ready Lakehouse — production data infrastructure
