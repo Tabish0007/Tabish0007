@@ -1,6 +1,6 @@
 # Tabish Sayyed
 
-**ML Platform Engineer · MLOps · ML Infrastructure · Data Platforms**
+** Platform Engineer · MLOps · ML Infrastructure · Data Platforms**
 
 Tabish Sayyed : Platform engineer for data & ML workloads. I make GPU and data infrastructure cheap, observable, and self-service.
 
